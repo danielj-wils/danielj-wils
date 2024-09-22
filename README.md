@@ -2,7 +2,8 @@
 
 My projects highlight ideas that encompass my skills and creativity.
 
-## Table of Contents
+
+## Projects Contents
 ### UX/UI Projects
 - [Personalised Streetlighting](#)
 ### Machine Learning Projects
