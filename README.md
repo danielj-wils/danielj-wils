@@ -13,4 +13,4 @@ My projects highlight ideas that encompass my skills and creativity.
 - [Turntable Attack](#)
 - [Quest for Seeds](#)
 - [Flappy Bird](#)
-- [Narrative Nexus](#https://github.com/danielj-wils/NarrativeNexus/tree/f18124ec74696e85c2e98f151240f9386da19161)
+- [Narrative Nexus](#f18124ec74696e85c2e98f151240f9386da19161)
