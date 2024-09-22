@@ -1,11 +1,9 @@
 
-
 ### My Information  
 <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Daniel, an unemployed AI graduate 🤖 open for work in games design, AI, character design, UX/UI design and sports coaching🚀</div>  
   
 
@@ -22,11 +20,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
-
-
-### Skills  
 <div align="center">  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
