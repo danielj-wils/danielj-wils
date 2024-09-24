@@ -7,7 +7,7 @@
 ### <div align="center">I'm Daniel, an unemployed AI graduate 🤖 open for work in games design, AI, character design, UX/UI design and sports coaching🚀</div>  
   
 
-- 🔭 I’m currently working on [Narrative Nexus](https://github.com/danielj-wils/NarrativeNexus/tree/f18124ec74696e85c2e98f151240f9386da19161)  
+- 🔭 I’m currently working on [Narrative Nexus](https://github.com/danielj-wils/NarrativeNexus/tree/f18124ec74696e85c2e98f151240f9386da19161)  and [Quest for Seeds](https://github.com/danielj-wils/Quest-For-Seeds), both games created in the Unity Game Engine. 
   
 
 - 🎮I'm currently developing my Unity skills, primarily developing simple games utilising a new unique skill in each one  
